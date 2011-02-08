@@ -4,7 +4,7 @@
 
 <cfinclude template="css.cfm">
 
-<h1>Block Robots v1.1.1</h1>
+<h1>Block Robots v1.1.2</h1>
 <p>The <tt>blockRobots()</tt> function does 2 things for you to keep search engine spiders out of your dev environments and other pages of your choosing.</p>
 <ol>
 	<li>If your Wheels environment is not set to <tt>production</tt>, it will return a meta &quot;robots nofollow&quot; tag instructing search engines to ignore your application.</li>
